@@ -1,4 +1,4 @@
-# Calculadora-Java-Android
+# Calculadora Java para Android
 
 ## Calculadora Simples feita em Java no Android Studio, com as 4 principais funções:
 
